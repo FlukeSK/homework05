@@ -35,7 +35,6 @@ header a {
 }
 
 main {
-    /* border: 1px solid magenta; */
     min-height: 86vh;
     display: flex;
     flex-direction: column;
